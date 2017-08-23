@@ -1,0 +1,8 @@
+Origin: iDeviceiDeveloper Public Repository # The name Cydia shows in the source list 
+Label: iDeviceiDeveloper Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: ideviceideveloper Public Repo # Show at the bottom of the page in Cydia

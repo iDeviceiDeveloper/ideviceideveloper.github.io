@@ -1,0 +1,11 @@
+Package: com.ideviceideveloper.fetchify
+Name: Fetchify
+Version: 1.0
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox, firmware (>= 6.0)
+Architecture: iphoneos-arm
+Description: Downloads songs from Spotify
+Homepage:
+Depiction:
+Maintainer: iDeviceiDeveloper <ideviceideveloper@icloud.com>
+Author: iDeviceiDeveloper <ideviceideveloper@icloud.com>
+Section: Tweaks

@@ -1,0 +1,15 @@
+Package: com.ideviceideveloper.fetchify
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: iDeviceiDeveloper <ideviceideveloper@icloud.com>
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox, firmware (>= 6.0)
+Filename: ./debs/com.ideviceideveloper.fetchify_1.0_iphoneos-arm.deb
+Size: 584208
+MD5sum: ee28e63be447e929040bf5960cef9413
+SHA1: 4d6f3ee6234ee38acee5d7c1fe729d798262edf4
+SHA256: ca3d2adcc9364b6d1c05f2f22706e876bd31e612c062c6a50f6dd2cfd9774a8d
+Section: Tweaks
+Description: Downloads songs from Spotify
+Author: iDeviceiDeveloper <ideviceideveloper@icloud.com>
+Name: Fetchify
+
