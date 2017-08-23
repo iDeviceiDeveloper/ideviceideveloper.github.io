@@ -4,8 +4,8 @@ Version: 1.0
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, com.ouraigua.jodebox, firmware (>= 6.0)
 Architecture: iphoneos-arm
 Description: Downloads songs from Spotify
-Homepage:
-Depiction:
+Homepage: https://ideviceideveloper.github.io
+Depiction: https://ideviceideveloper.github.io
 Maintainer: iDeviceiDeveloper <ideviceideveloper@icloud.com>
 Author: iDeviceiDeveloper <ideviceideveloper@icloud.com>
 Section: Tweaks
